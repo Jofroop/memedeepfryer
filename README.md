@@ -1,3 +1,6 @@
+Jofroop's fork of deepfriedmemes.com, in case it goes down. Then i have my own copy!
+
+Original readme.md:
 Deep fries your pics. Serve with laundry sauce.
 
 live @ http://deepfriedmemes.com
